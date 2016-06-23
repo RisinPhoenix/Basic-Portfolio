@@ -1,0 +1,185 @@
+/*Heading fonts use font-family: 'Georgia', Times, Times New Roman, serif;*/
+/*All other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;*/
+
+body {
+	background-image:url("../images/cloth.png");
+    background-repeat:repeat;
+    background-color:#ffffff;
+    width:960;
+    height:100%;
+    margin:0;
+    padding:0;
+    
+    
+	}
+	h1 {
+		
+	}
+	h2 { 
+		border-bottom: 2px solid;
+		border-color:#cccccc;
+		color:#4aaaa5;
+		font-size:25px;
+	}
+	h3 {
+		margin-top:20px;
+		padding-bottom:0px;
+		text-indent:40px;
+		}
+	h4 {
+		clear:both;
+		background-color: #4aaaa5;
+  		text-align:center;
+    	padding: 20px;
+    	margin: 0px;
+    	color:white;
+    	font-size: 18px;
+    	width:200;
+	}
+	form{margin-top:10px;}
+
+#header {
+	font-family:'Georgia', Times, Times New Roman, serif;
+    width: 960px;
+    height: 90px;
+    padding: 0px;
+    border-bottom: 2px solid navy;
+    margin: 0px ;
+    background-color:#ffffff;
+    border-color:#cccccc;
+}
+.title {
+	float:left;
+	background-color: #4aaaa5;
+    height: 55px;
+    padding: 35px 20px 0px 20px;
+    margin: 0px 0px 0px 50px;
+    color:white;
+    font-size: 25px;
+
+
+    }
+.links-last {
+	float:right;
+	background-color: #ffffff;
+    height: 55px;
+    padding: 0px 0px 0px 0px;
+    margin: 35px 50px 0px 5px;
+    color:#777777;
+    font-size: 15px;
+}
+.links {
+	float:right;
+	background-color: #ffffff;
+    height: 20px;
+    border-right:2px solid #cccccc;
+    padding: 0px 20px 0px 0px;
+    margin: 35px 20px 0px 5px;
+    color:#777777;
+    font-size: 15px;
+}
+#main {
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    margin-bottom: 35px;
+    overflow: auto;
+}
+.main-left {
+	float: left;
+    width: 580px;
+    overflow:auto;
+    padding: 0px;
+    border: 2px solid #dddddd;
+    margin: 35px 20px 0px 50px;
+    background-color:#ffffff;
+}
+.picture{
+	padding: 0px;
+	margin:20px 20px;
+	float:left;
+}
+.form2{
+	padding: 0px;
+	margin:0px 20px;
+}
+.form{
+	padding: 0px;
+	margin:5px 20px;
+}
+.box{
+	margin:10px 20px;
+	width:540px;
+}
+.submit{
+	padding: 10px;
+	background-color:#4aaaa5;
+	margin:10px 20px;
+}
+.main-right{
+	float: right;
+	width: 225px;
+    overflow:auto;
+    padding: 0px;
+    border: 2px solid #dddddd;
+    margin: 35px 45px 0px 0px;
+    background-color:#ffffff;
+    text-align:center; 
+}
+.icon	{
+	margin-top:10px;
+}
+#footer{
+	clear:both;
+	text-align:center;
+	font-family:'Georgia', Times, Times New Roman, serif;
+    width: 960px;
+    padding: 40px;
+    border-top: 5px solid #4aaaa5;
+    margin: 0px ;
+    background-color:#666666;
+    color: #777777
+}
+/*</style>
+
+
+
+
+/*body {
+
+}
+#header {float-left
+	;}
+#links {float-right}
+div {
+	float: top;
+    width: 960px;
+    padding: 0px;
+    border-bottom: 10px solid navy;
+    margin: 0px;}
+
+div{
+    width: 960px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+Section {float:left;}
+section2 {float:right;}
+
+a:link {color: green;}
+a:visited {color:purple;}
+a:hover {color:blue;}
+a:active {color:orange;}
+
+
+
+footer {
+	background: #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;	
+
+}
+footer, .push {
+	height: 20px; /* .push must be the same height as .footer */
+}*/
